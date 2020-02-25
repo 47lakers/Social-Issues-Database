@@ -3,6 +3,7 @@ using namespace std;
 
 //Ira Porchia
 //Social Issues Project
+//2/4/20
 
 const int MAX = 5;
 int socialIssue, linkNum, again;
